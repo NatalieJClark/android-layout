@@ -10,6 +10,7 @@
 </p>
 
 ## Objectives
+Challenge instructions:
 - [x] Implement a screen layout similar to the one below:
 <img width="1008" alt="image" src="https://github.com/NatalieJClark/android-layout/assets/107806810/de3becdc-a081-41a8-a24c-7275c8a9a875">
 
