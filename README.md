@@ -15,6 +15,8 @@ Challenge instructions:
 <img width="1008" alt="image" src="https://github.com/NatalieJClark/android-layout/assets/107806810/de3becdc-a081-41a8-a24c-7275c8a9a875">
 
 ## Setup
+Clone this repo and open in Android Studio  
+
 Build and refresh preview:
 - `Ctrl + Shift + Cmd + R`
 
